@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ServerConnect.iml" filepath="$PROJECT_DIR$/ServerConnect.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serverconnect.iml" filepath="$PROJECT_DIR$/serverconnect.iml" />
     </modules>
   </component>
 </project>
